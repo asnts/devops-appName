@@ -1,1 +1,1 @@
-# devops-s--appName-
+# devops-<appName>
