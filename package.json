@@ -1,0 +1,22 @@
+{
+    "name": "dvop-nodejs-template",
+    "version": "0.0.0",
+    "description": "Template Javascript application repository using NodeJS",
+    "main": "app.js",
+    "directories": {
+      "test": "test"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/viniciusmpacheco/dvop-nodejs-template.git"
+    },
+    "author": "Vinicius Pacheco",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/viniciusmpacheco/dvop-nodejs-template/issues"
+    },
+    "homepage": "https://github.com/viniciusmpacheco/dvop-nodejs-template#readme"
+  }
