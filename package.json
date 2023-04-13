@@ -11,12 +11,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/viniciusmpacheco/dvop-nodejs-template.git"
+      "url": "git+https://github.com/asnts/dvop-nodejs-template.git"
     },
-    "author": "Vinicius Pacheco",
+    "author": "Annanda Santos",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/viniciusmpacheco/dvop-nodejs-template/issues"
+      "url": "https://github.com/asnts/dvop-nodejs-template/issues"
     },
-    "homepage": "https://github.com/viniciusmpacheco/dvop-nodejs-template#readme"
+    "homepage": "https://github.com/asnts/dvop-nodejs-template#readme"
   }
