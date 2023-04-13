@@ -59,6 +59,7 @@ RUN apt-get update && \
                     oracle-java8-set-default \
                     oracle-java8-unlimited-jce-policy \
                     oracle-java10-installer \
+                    oracle-java11-installer \
                     groovy \
                     graphviz && \
     apt-get autoremove --purge -y && \
